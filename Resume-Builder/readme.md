@@ -1,10 +1,15 @@
 **Resume Builder using ChatGPT**
 
 **Run Instructions**
+
 **-Requirements : Python
+
 -pip install openai
+
 -Install pdflatex (For Mac Users you can execute brew install --cask mactex
+
 -Create an OpenAI API Token
+
 -Replace the API Token in gpt_summary.py
 -Run main.py
 -After submitting, for checking the result, go to result/Resume.pdf
